@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+Try project
+
+1- npm install
+2- ng serve (node console)
+3- open your browser on http://localhost:4200/
+exemple: 
+http://localhost:4200/mine/jogo
