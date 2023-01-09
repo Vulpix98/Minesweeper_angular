@@ -30,8 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 Try project
 
-1- npm install
-2- ng serve (node console)
-3- open your browser on http://localhost:4200/
-exemple: 
-http://localhost:4200/mine/jogo
+1- npm install <br>
+2- ng serve (node console) <br>
+3- open your browser on http://localhost:4200/ <br>
+exemple:  <br>
+http://localhost:4200/mine/jogo <br>
